@@ -1,0 +1,105 @@
+}
+}    
+;rtSzs nruter        
+;)(mirt.rtSzs = rtSzs        
+;)tnCi ,0 ,dbKb(gnirtS wen = rtSzs        
+}        
+;))(gnirtSot.xe(nltnirp.tuo.metsyS            
+{        
+)xe noitpecxE(hctac        
+}        
+;)dbKb(daer.ni.metsyS = tnCi            
+{        
+yrt        
+;"" = rtSzs gnirtS        
+;0 = tnCi tni        
+;etyb wen = ][dbKb etyb        
+{    
+)(gnirtSdbKteg gnirtS cilbup citats    
+============================================ //    
+gnirtSdbKteg //    
+============================================ //    
+}    
+;))pi)tni( & ffx0(                
++ "." + )pi)tni( & ffx0(                
++ "." + )pi)tni( & ffx0(                
++ "." + )pi)tni( & ffx0(                
++ " :PI nóicceriD"(nltnirp.tuo.metsyS        
+;)(sserddAteg.ai = pi        
+;etyb wen = pi ][etyb        
+;))(emaNtsoHteg.ai                
++ " :tsoh ed erbmoN"(nltnirp.tuo.metsyS        
+;)ai + " :nóicceriD"(nltnirp.tuo.metsyS        
+{    
+)ai sserddAtenI(ofnIssserddAtenItnirp    
+diov citats    
+============================================ //    
+ofnIssserddAtenItnirp //    
+============================================ //    
+}    
+}        
+}            
+;)llAetomeRai(ofnIssserddAtenItnirp                
+{            
+)++i ;htgnel.llAetomeRai < i;0 = i tni(rof            
+;)"------------------------"                    
+(nltnirp.tuo.metsyS            
+;)"satomer tsoh ed senoiccerid sal sadoT"                    
+(nltnirp.tuo.metsyS            
+;)"------------------------"                    
+(nltnirp.tuo.metsyS            
+;)sserddAetomeRai(ofnIssserddAtenItnirp            
+;)"------------------------"                    
+(nltnirp.tuo.metsyS            
+;)"otomer tsoh ed nóicceriD"(nltnirp.tuo.metsyS            
+;)"------------------------"                    
+(nltnirp.tuo.metsyS            
+}            
+;eunitnoc                
+;))(gnirtSot.xe(nltnirp.tuo.metsyS                
+{            
+)xe noitpecxEtsoHnwonknU(hctac            
+}            
+;)s(emaNyBllAteg.sserddAtenI                        
+= llAetomeRai                
+;)s(emaNyBteg.sserddAtenI                        
+= sserddAetomeRai                
+{            
+yrt            
+;kaerb                
+))"tiuq"(slauqe.s(fi            
+;))(gnirtSdbKteg(gnirtS wen = s            
+;)" :)rilas arap 'tiuq'( nóiccerid asergnI"                    
+(nltnirp.tuo.metsyS            
+{        
+)eurt(elihw        
+;)sserddAlacoLai(ofnIssserddAtenItnirp        
+;)"------------------------"                
+(nltnirp.tuo.metsyS        
+;)"lacol tsoh ed nóicceriD"(nltnirp.tuo.metsyS        
+;)"------------------------"                
+(nltnirp.tuo.metsyS        
+}        
+;))(gnirtSot.xe(nltnirp.tuo.metsyS            
+{        
+)xe noitpecxEtsoHnwonknU(hctac        
+}        
+;)(tsoHlacoLteg.sserddAtenI                    
+= sserddAlacoLai            
+{        
+yrt        
+;llAetomeRai ][sserddAtenI        
+;llun = sserddAetomeRai sserddAtenI        
+;llun = sserddAlacoLai sserddAtenI        
+;s gnirtS        
+{    
+)][sgra gnirtS(niam diov citats cilbup    
+{
+omeDserddAtenI ssalc cilbup
+;*.litu.avaj tropmi
+;*.ten.avaj tropmi
+========================================== //
+se.orecedsedavaj//:sptth    :beW //
+se.orecedsedavaj@otcatnoc :liam-E //
+avaj.omeDserddAtenI //
+========================================== //
